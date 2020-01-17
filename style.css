@@ -1,0 +1,15 @@
+
+.biography{
+    background-color: peachpuff;
+    width: 75%;
+   padding: 1rem 2rem;
+}
+
+.summary {
+    background-color: gray;
+    display: inline-block;
+    
+}
+.container {
+    display:flex;
+}
