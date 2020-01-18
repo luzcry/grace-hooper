@@ -1,12 +1,16 @@
+body {
+    font-family: sans-serif;
+}
 
 .biography{
     background-color: peachpuff;
     width: 75%;
    padding: 1rem 2rem;
+   line-height: 1.6;
 }
 
 .summary {
-    background-color: gray;
+    background-color: lightcoral;
     display: inline-block;
     
 }
