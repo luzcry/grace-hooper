@@ -17,3 +17,7 @@ body {
 .container {
     display:flex;
 }
+
+.summary-table {
+    border: 1px solid ;
+}
